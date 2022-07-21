@@ -1,0 +1,839 @@
+body{
+    background-color:rgb(234, 233, 233);
+}
+#pink{float: left;display: flex;justify-content: center;align-items: center;}
+#pink2{float: left}
+#pink3{float: left}
+#pink4{float: left}
+#pink5{float: left}
+#pink6{float: left}
+.css{
+    border: 1px solid none;
+    height: 1052px;
+    width: 1200px;
+    margin: 0 auto;
+    background-color: white;
+    
+}
+.css1{
+    border: 1px solid none;
+    width: 600px;
+    height: 350px;
+    
+}
+.css1a{
+    font-size: 19px;
+    font-family: ARIAL;
+    font-style: italic;
+    color: gray;
+    width: 75%;
+    margin-top: 20%;
+    margin-left: 11%;
+    word-spacing: 5px;
+    line-height: 1.9;
+}
+.css1b{border: 1px solid none;
+    font-size: 19px;
+    font-family: ARIAL;
+    font-size: 32px;
+    color:rgb(82, 61, 97);
+    width: 75%;
+    height: 80px;
+    line-height: 1.9;
+    margin-top: 7%;
+    margin-left: 2%;
+}
+.css1c{border: 1px solid none;
+    font-size: 19px;
+    font-family: ARIAL;
+    color: rgb(107, 107, 107);
+    width: 75%;
+    line-height: 1.8;
+    margin-left: 2%;
+}
+.css1d{
+    border: 1px solid none;
+    height: 70px;
+    width: 90%;
+    margin-top: 5%;
+    text-align: right;
+}
+.css1d a{
+    border: 1px solid rgb(82, 61, 97);
+    font-size: 19px;
+    font-family: ARIAL;
+    color:white;
+    width: 85%;
+    background-color: rgb(82, 61, 97);
+    text-decoration: none;
+    padding: 13px 39px 13px 39px;
+    
+}
+
+.css1d a:hover{
+    background-color: rgb(64, 46, 76);
+}
+
+
+
+.css2{
+    border: 1px solid none;
+    width: 600px;
+    height: 350px;
+    background-image:linear-gradient(to top left,rgb(255, 255, 255), rgb(82, 61, 97));
+    
+    
+}
+
+.css2a{
+    font-family:Rockwell Condensed;
+    font-size: 64px;
+    letter-spacing: 5;
+    color: white;
+    font-weight: 500;
+   
+}
+.css2b{
+    height: 180px;
+        width: 180px;
+        border-radius: 100px;
+        margin-top: 7%;
+        margin-left: 34%;
+    }
+
+.css2b img{
+    height: 100%;
+        width: 100%;
+        border-radius: 100px;
+}
+.css2c{
+    border: 1px solid none;
+        width: 70%;
+        font-size: 16px;
+        font-family: arial;
+        margin-left: 14%;
+        margin-top: 3%;
+        color: white;
+}
+.css1a1{
+    font-size: 28px;
+    font-family: arial;
+    color: grey;
+    text-align: center;
+    height: 60px;
+    margin-top: 10%;
+}
+.css1a2{
+    border: 1px solid none;
+    font-size: 19px;
+    font-family: ARIAL;
+    color: rgb(107, 107, 107);
+    width: 79%;
+    line-height: 1.8;
+    margin-left: 10%;
+}
+.css1a2 a{
+    text-decoration: none;
+        color: rgb(147, 6, 255);
+    }
+.css1a3{
+    border: 1px solid none;
+    height: 70px;
+    width: 100%;
+    margin-top: 5%;
+    text-align: center;
+}
+.css1a3 a{
+    border: 1px solid rgb(82, 61, 97);
+    font-size: 19px;
+    font-family: ARIAL;
+    color:white;
+    width: 85%;
+    background-color: rgb(82, 61, 97);
+    text-decoration: none;
+    padding: 13px 39px 13px 39px;
+    
+}
+
+.css1a3 a:hover{
+    background-color: rgb(64, 46, 76);
+}
+
+.css3{
+    border: 1px solid none;
+    width: 1200px;
+    margin: 0 auto;
+    height: 600px;
+    margin-top: 2%;
+    background-color: white;
+}
+
+.css3a{
+    width: 730px;
+        height: 600px;
+        border: 1px solid none;
+        float: left;
+}
+
+.css3a1{
+    border: 1px solid none;
+        height: 60px;
+        width: 90%;
+        margin-top: 10%;
+        margin-left: 9%;
+        font-size: 34px;
+        color:rgb(82, 61, 97);
+        font-family: arial;
+}
+
+.css3a2{
+    border: 1px solid none;
+        height: 360px;
+        width: 90%;
+        margin-left: 9%;
+        font-family: arial;
+        font-size: 16px;
+        line-height: 1.8;
+
+}
+
+.css3a3{
+    border: 1px solid none;
+        height: 100px;
+        width: 80%;
+        margin-left: 9%;
+        text-align: right;
+
+}
+.css3a3 a{
+    border: 1px solid rgb(82, 61, 97);
+    font-size: 19px;
+    font-family: ARIAL;
+    color:white;
+    width: 85%;
+    background-color: rgb(82, 61, 97);
+    text-decoration: none;
+    padding: 13px 39px 13px 39px;
+    
+}
+
+.css3a3 a:hover{
+    background-color: rgb(64, 46, 76);
+}
+
+.css3b{
+    width: 466px;
+    height: 600px;
+    border: 1px solid none;
+    float: left;
+}
+
+.css3b img{
+    height: 100%;
+    width: 100%;
+}
+
+.css4{
+    height: 600px;
+    width: 1200px;
+    margin: 0 auto;
+    margin-top: 2%;
+    background-color: white;
+}
+
+.css4a{height: 600px;
+        width: 400PX;
+        border: 1px solid none;
+     float: left;
+}
+
+.css4a img{
+    height: 100%;
+        width: 100%;
+    }
+
+.css4b{
+    height: 500px;
+    width: 330PX;
+    border: 1px solid rgb(82, 61, 97);
+    float: left;
+    margin-top: 5%;
+    margin-left: 3%;
+}
+.css4ba{border: 1px solid rgb(82, 61, 97);
+height: 130px;
+width: 100%;
+background-color:rgb(82, 61, 97);
+}
+.css4bc{border: 1px solid none;
+height: 40px;
+width: 100%;
+margin-top: 5%;
+color: white;
+font-size: 28px;
+text-align: center;}
+.css4c{
+    height: 160px;
+        width: 60%;
+        height: 290px;
+        border: 1px solid none;
+        margin-left: 22%;
+        color: rgb(107, 107, 107);
+        font-size: 18px;
+        margin-top: 2%;
+        font-family: arial;
+        line-height: 2;
+}
+.css4d{
+    border: 1px solid none;
+height: 60px;
+width: 100%;
+text-align: center;
+}
+#bb{font-size: 20px;
+}
+.css4d a{
+    text-decoration: none;
+font-family: arial;
+font-size: 18px;
+border: 1px solid rgb(82, 61, 97);
+background-color: rgb(82, 61, 97);
+color: white;
+padding: 14px 24px 14px 24px;
+}
+
+.css4d a:hover{
+    background-color: rgb(64, 46, 76);
+}
+.csss{border: 1px solid rgb(234, 233, 233) ;width:1200px;height: 78 0px;margin: 0 auto;position: relative;margin-top:20px ;}
+
+.css5a{border: 1px solid none;
+    height: 140px;
+    width: 100%;
+    margin-left:0%;
+position:absolute;
+    background-image: linear-gradient(to top ,white, rgb(64, 46, 76));
+    
+    }
+.css5a1{border: 1px solid none;
+            color: white;
+            font-family: arial;
+            font-size: 36px;
+            width: 400px;
+            margin-top: 2%;
+            margin-left: 4%;
+}
+
+.css6{border: 1px solid white;
+        height: 500px;
+        width: 900px; 
+        background-color: white;
+        position: absolute;
+        margin-top: 100px;
+        margin-left: 150px;
+        display: flex;
+    }
+.css6a{border: 1px solid white;
+        height:400px ;
+        width: 449px;
+        
+}
+.css6a input{height: 50px;
+width: 400px;
+margin-top: 30px;
+margin-left: 40px;
+font-size: 18px;
+
+}
+
+.css6a select{height: 50px;
+                width: 400px;
+            margin-top: 30px;
+margin-left: 40px;
+font-size: 18px;
+color: gray;
+
+            }
+.css6b{border: 1px solid white;
+    height:400px ;
+    width: 450px;
+    font-size: 18px;
+    font-family: Arial;
+    color: gray;
+}
+.css6b input{margin-top: 45px;}
+.css6b textarea{height: 200px;
+width: 400px;
+margin-top: 40px;
+font-size: 18px;}
+.cssbu{bottom: 100;position: absolute;margin-left: 380px;}
+.cssbu a{text-decoration: none;
+            border: 1px solid rgb(82, 61, 97);
+        background-color: rgb(82, 61, 97);
+    color: white;
+padding: 12px 40px ;
+font-family: Arial;}
+.cssbu a:hover{background-color: rgb(64, 46, 76);}
+
+.css7{border: 1px solid none;
+    height: 220px;
+    width: 100%;
+    margin-left:0%;
+    bottom: 0px;
+    margin-top: 560px;
+    background-image: linear-gradient(to bottom ,white, rgb(64, 46, 76));
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-end;
+}
+
+.css7a{height: 150px;
+border: 1px solid none;
+width: 200px;
+font-size: 17px;
+color:white;
+font-family: arial;
+line-height: 1.5;
+word-spacing: 4;
+}
+.css7b{height: 40px;
+    border: 1px solid none;
+    width: 200px;
+    font-size: 22px;
+    font-family: arial;
+    color: white;
+    }
+
+.css8{border: 1px solid none;margin: 0 autO;width: 1200PX;text-align: center;height: 30PX;padding-top: 8PX;
+font-family: ARIAL;font-size: 18PX;color: rgb(107, 107, 107);
+}
+.CSS8 SPAN{color: blueviolet;}
+
+
+
+
+
+@media screen and (max-width: 600px)
+{
+    body{
+    background-color: rgb(234, 233, 233);
+}
+
+.css{
+    border: 1px solid rgb(234, 233, 233);
+    height: 1973px;
+    width: 100%;
+    margin: 0 auto;
+    background-color: white;
+    
+}
+.css1{
+    border: 1px solid rgb(234,233,233);
+    width: 100%;
+    height: 350px;
+}
+
+
+.css2{
+    border: 1px solid rgb(234, 233, 233);
+    width: 100%;
+    height: 350px;
+    background-image:linear-gradient (to top left,rgb(255, 255, 255), rgb(82, 61, 97) ); 
+   
+}
+.css1a{
+    font-size: 22px;
+    font-family: ARIAL;
+    font-style: italic;
+    color: gray;
+    width: 75%;
+    margin-top: 17%;
+    margin-left: 11%;
+    word-spacing: 5px;
+    line-height: 1.9;
+    
+}
+.css1b{border: 1px solid none;
+    font-size: 19px;
+    font-family: ARIAL;
+    font-size: 32px;
+    color:rgb(82, 61, 97);
+    width: 100%;
+    height: 80px;
+    text-align: center;
+    line-height: 1.9;
+    margin-top: 0%;
+    margin-left: 0%;
+
+}
+.css1c{border: 1px solid none;
+    font-size: 19px;
+    font-family: ARIAL;
+    color: rgb(107, 107, 107);
+    width: 100%;
+    text-align: center;
+    height: 160px;
+    line-height: 1.8;
+    margin-left: 1%;
+}
+.css1d{
+    border: 1px solid none;
+    height: 70px;
+    width: 100%;
+    margin-top: 5%;
+    text-align: center;
+}
+.css1d a{
+    border: 1px solid rgb(234, 233, 233);
+    font-size: 19px;
+    font-family: ARIAL;
+    color:white;
+    width: 85%;
+    background-color: rgb(82, 61, 97);
+    text-decoration: none;
+    padding: 13px 39px 13px 39px;
+    
+}
+.css1d a:hover{
+    background-color: rgb(64, 46, 76);
+}
+
+
+
+
+.css2a{
+    font-family:Rockwell Condensed;
+    font-size: 64px;
+    letter-spacing: 5;
+    color: white;
+    font-weight: 500;
+    
+}
+.css2b{
+    height: 180px;
+        width: 180px;
+        border-radius: 100px;
+        margin-top: 10%;
+        margin-left: 26%;
+    }
+
+.css2b img{
+    height: 100%;
+        width: 100%;
+        border-radius: 100px;
+}
+#pink5{
+    height: 280px;
+}
+#pink{
+    height: 280px;
+}
+.css2c{
+    border: 1px solid none;
+        width: 100%;
+        font-size: 13px;
+        font-family: arial;
+        margin-left: 0%;
+        margin-top: 4%;
+        color: white;
+        text-align: center;
+}
+.css1a1{
+    font-size: 28px;
+    font-family: arial;
+    color: grey;
+    text-align:left;
+    height: 90px;
+    width: 60%;
+    margin-top: 8%;
+    margin-left: 10%;
+}
+.css1a2{
+    border: 1px solid none;
+    font-size: 19px;
+    font-family: ARIAL;
+    color: rgb(107, 107, 107);
+    width: 79%;
+    line-height: 1.8;
+    margin-left: 10%;
+    height: 150px;
+}
+.css1a2 a{
+    text-decoration: none;
+        color: rgb(147, 6, 255);
+    }
+.css1a3{
+    border: 1px solid none;
+    height: 70px;
+    width: 100%;
+    margin-top: 5%;
+    text-align: center;
+}
+.css1a3 a{
+    border: 1px solid rgb(82, 61, 97);
+    font-size: 19px;
+    font-family: ARIAL;
+    color:white;
+    width: 85%;
+    background-color: rgb(82, 61, 97);
+    text-decoration: none;
+    padding: 13px 39px 13px 39px;
+    
+}
+
+.css1a3 a:hover{
+    background-color: rgb(64, 46, 76);
+}
+
+.css3{
+    border: 1px solid none;
+    width: 100%;
+    margin: 0 auto;
+    height: 1300px;
+    margin-top: 6%;
+    background-color: white;
+}
+.css3a{width:100%;
+height: 770px;
+border: 1px solid none;
+}
+.css3a1{
+    border: 1px solid none;
+        height: 90px;
+        width: 70%;
+        margin-top: 10%;
+        margin-left: 9%;
+        font-size: 27px;
+        color:rgb(82, 61, 97);
+        font-family: arial;
+}
+.css3a2{
+    border: 1px solid none;
+        height: 540px;
+        width: 80%;
+        margin-left: 9%;
+        font-family: arial;
+        font-size: 15px;
+        line-height: 1.8;
+
+}
+.css3a3{
+    border: 1px solid none;
+        height: 60px;
+        width: 66%;
+        margin-left: 9%;
+        text-align: right;
+
+}
+.css3a3 a{
+    border: 1px solid rgb(82, 61, 97);
+    font-size: 19px;
+    font-family: ARIAL;
+    color:white;
+    width: 85%;
+    background-color: rgb(82, 61, 97);
+    text-decoration: none;
+    padding: 13px 39px 13px 39px;
+    
+}
+
+.css3a3 a:hover{
+    background-color: rgb(64, 46, 76);
+}
+.css3b{width: 90%;
+    height: 500px;
+    border: 1px solid none;
+    margin-left: 5%;
+}
+.css3b img{
+    height: 100%;
+    width: 100%;
+}
+.css4{
+    height: 1650px;
+    width: 100%;
+    margin: 0 auto;
+    margin-top: 6%;
+    background-color: white;
+}
+
+.css4a{height: 600px;
+        width: 100%;
+        border: 1px solid none;
+     float: left;
+}
+
+.css4a img{
+    height: 100%;
+        width: 100%;
+    }
+
+.css4b{
+    height: 500px;
+    width: 330PX;
+    border: 1px solid rgb(82, 61, 97);
+    float: left;
+    margin-top: 5%;
+    margin-left: 7%;
+}
+.css4ba{border: 1px solid rgb(82, 61, 97);
+height: 130px;
+width: 100%;
+background-color:rgb(82, 61, 97);
+}
+.css4bc{border: 1px solid none;
+height: 40px;
+width: 100%;
+margin-top: 5%;
+color: white;
+font-size: 28px;
+text-align: center;}
+.css4c{
+    height: 160px;
+        width: 60%;
+        height: 290px;
+        border: 1px solid none;
+        margin-left: 22%;
+        color: rgb(107, 107, 107);
+        font-size: 18px;
+        margin-top: 2%;
+        font-family: arial;
+        line-height: 2;
+}
+.css4d{
+    border: 1px solid none;
+height: 60px;
+width: 100%;
+text-align: center;
+}
+#bb{font-size: 20px;
+}
+.css4d a{
+    text-decoration: none;
+font-family: arial;
+font-size: 18px;
+border: 1px solid rgb(82, 61, 97);
+background-color: rgb(82, 61, 97);
+color: white;
+padding: 14px 24px 14px 24px;
+}
+
+.css4d a:hover{
+    background-color: rgb(64, 46, 76);
+}
+.csss{border: 1px solid none ;width:100%;height: 1000px;margin: 0 auto;position: relative;margin-top:20px ;}
+
+.css5a{border: 1px solid none;
+    height: 140px;
+    width: 100%;
+    margin-left:0%;
+position:absolute;
+    background-image: linear-gradient(to top ,white, rgb(64, 46, 76));
+    
+    }
+.css5a1{border: 1px solid none;
+            color: white;
+            font-family: arial;
+            font-size: 36px;
+            width: 100%;
+            margin-top: 2%;
+            margin-left: 4%;
+}
+
+.css6{border: 1px solid white;
+        height: 550px;
+        width: 90%; 
+        background-color: white;
+        position: absolute;
+        margin-top: 100px;
+        margin-left:20px;
+        display: flex;
+        flex-direction:column;
+    }
+.css6a{border: 1px solid white;
+        height:250px ;
+        width: 100%;
+        
+}
+.css6a input{height: 50px;
+width: 95%;
+margin-top: 10px;
+margin-left: 5px;
+font-size: 18px;
+
+}
+
+.css6a select{height: 50px;
+                width: 95%;
+            margin-top: 10px;
+margin-left: 5px;
+font-size: 18px;
+color: gray;
+
+            }
+.css6b{border: 1px solid white;
+    height:220px ;
+    width: 100%;
+    font-size: 18px;
+    font-family: Arial;
+    color: gray;
+}
+.css6b input{margin-top: 15px;
+margin-left: 5px;}
+.css6b textarea{height: 150px;
+width: 95%;
+margin-left: 5px;
+margin-top: 25px;
+font-size: 18px;}
+.cssbu{bottom: 40;position: absolute;margin-left: 100px;}
+.cssbu a{text-decoration: none;
+            border: 1px solid rgb(82, 61, 97);
+        background-color: rgb(82, 61, 97);
+    color: white;
+padding: 12px 40px ;
+font-family: Arial;}
+.cssbu a:hover{background-color: rgb(64, 46, 76);}
+
+.css7{border: 1px solid none;
+    height: 370px;
+    width: 100%;
+    padding-bottom: 50px;
+    margin-left:0%;
+    bottom: 0px;
+    margin-top: 560px;
+    background-image: linear-gradient(to bottom ,white, rgb(64, 46, 76));
+    display: flex;
+flex-direction: column;
+justify-content:flex-end;
+    align-items: center;
+}
+
+.css7a{height: 110px;
+border: 1px solid none;
+width: 200px;
+font-size: 17px;
+color:white;
+margin-top: 20px;
+font-family: arial;
+line-height: 1.5;
+word-spacing: 4;
+}
+.css7b{height: 40px;
+    border: 1px solid none;
+    width: 200px;
+    font-size: 22px;
+    font-family: arial;
+    color: white;
+    }
+    .css8{border: 1px solid none;margin: 0 autO;width: 100%;text-align: center;height: 30PX;padding-top: 8PX;
+        font-family: ARIAL;font-size: 14PX;color: rgb(107, 107, 107);
+        }
+        .CSS8 SPAN{color: blueviolet;}
+}
+
+
+
+
+
+
+
